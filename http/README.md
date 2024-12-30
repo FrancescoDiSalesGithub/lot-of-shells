@@ -6,7 +6,7 @@ each http shell has a unique  rest endpoint that has as http method GET
 ```
 This rest api has a query parameter called cmd. To call a http shell then you should do as the following:
 ```
-http://vulnerablemachineip:3333/backdoor?cmd=command
+http://vulnerablemachineip:3030/backdoor?cmd=command
 ```
 
 where:
